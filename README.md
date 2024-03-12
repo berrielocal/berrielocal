@@ -11,6 +11,6 @@
 * [Backend](https://github.com/berrielocal/backend)
 * [Mobile](https://github.com/berrielocal/mobile)
 ### Документация
-* Презентация[pdf](https://github.com/berrielocal/Documentation/blob/main/Презентация_1атт.pdf)     [pptx](https://github.com/berrielocal/Documentation/blob/main/Презентация_1атт.pptx)
+* Презентация  [pdf](https://github.com/berrielocal/Documentation/blob/main/Презентация_1атт.pdf)  [pptx](https://github.com/berrielocal/Documentation/blob/main/Презентация_1атт.pptx)
 ### Видео
 * [Видеопрезентация (1 аттестация)](https://youtu.be/-QW4zf2W6X0)
