@@ -11,3 +11,5 @@
 * [Backend](https://github.com/berrielocal/backend)
 * [Mobile](https://github.com/berrielocal/mobile)
 ### Документация
+### Видео
+* [Видеопрезентация (1 аттестация)](https://youtu.be/-QW4zf2W6X0)
