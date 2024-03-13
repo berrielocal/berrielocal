@@ -11,7 +11,7 @@
 * [Backend](https://github.com/berrielocal/backend)
 * [Mobile](https://github.com/berrielocal/mobile)
 ### Документация
-* Презентация (1 аттестация)  [pdf](https://github.com/berrielocal/Documentation/blob/main/Презентация_1атт.pdf)  [pptx](https://github.com/berrielocal/Documentation/blob/main/Презентация_1атт.pptx)
-* Сопроводительное письмо (1 аттестация)  [pdf](https://github.com/berrielocal/Documentation/blob/main/Сопроводительное%20письмо.pdf)  [dock](https://github.com/berrielocal/Documentation/blob/main/Сопроводительное%20письмо.docx)
+* Презентация (1 аттестация)  [pdf](https://github.com/berrielocal/berrielocal/blob/main/Documentation/presentation.pdf)  [pptx](https://github.com/berrielocal/berrielocal/blob/main/Documentation/presentation.pptx)
+* Сопроводительное письмо (1 аттестация)  [pdf](https://github.com/berrielocal/berrielocal/blob/main/Documentation/CoverLetter.pdf)  [dock](https://github.com/berrielocal/berrielocal/blob/main/Documentation/CoverLetter.docx)
 ### Видео
 * [Видеопрезентация (1 аттестация)](https://youtu.be/-QW4zf2W6X0)
