@@ -15,6 +15,7 @@
 * Подтверждение оформления ТЗ [pdf](https://github.com/berrielocal/berrielocal/blob/main/Documentation/confirmation.pdf)
 * Диаграммы  [png](https://github.com/berrielocal/berrielocal/tree/main/Documentation/Diagrams)
 * Презентация (1 аттестация)  [pdf](https://github.com/berrielocal/berrielocal/blob/main/Documentation/presentation.pdf)  [pptx](https://github.com/berrielocal/berrielocal/blob/main/Documentation/presentation.pptx)
+* Презентация (1 аттестация - защита)  [pptx](https://github.com/berrielocal/berrielocal/blob/main/Documentation/BerrieLocal_защита.pptx)
 * Сопроводительное письмо  [pdf](https://github.com/berrielocal/berrielocal/blob/main/Documentation/CoverLetter.pdf)  [dock](https://github.com/berrielocal/berrielocal/blob/main/Documentation/CoverLetter.docx)
 ### Видео
 * [Видеопрезентация (1 аттестация)](https://youtu.be/-QW4zf2W6X0)
