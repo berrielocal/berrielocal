@@ -7,6 +7,7 @@
 ### Ссылки на сервисы
 * [YouTrack](https://berrielocal.youtrack.cloud/agiles/159-7)
 * [Figma](https://www.figma.com/file/bWyu009B7I6ybe1Vp1IKqp/berrielLocal?type=design&node-id=0%3A1&mode=design&t=pZkDtN9Wmr1uXqqF-1)
+* [FigJam Интерактивный макет](https://www.figma.com/proto/2mFZOdLC60tjqXPrdFZcj7/PROT_BerrieLocal?page-id=0:1&type=design&node-id=1-1494&viewport=285,1069,0.15&t=eGjjXQeKDqFq9Nns-1&scaling=min-zoom&starting-point-node-id=1:1615)
 ### Ссылки на код
 * [Backend](https://github.com/berrielocal/backend)
 * [Mobile](https://github.com/berrielocal/mobile)
