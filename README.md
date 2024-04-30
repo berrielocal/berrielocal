@@ -19,6 +19,8 @@
 * Презентация (1 аттестация - защита)  [pptx](https://github.com/berrielocal/berrielocal/blob/main/Documentation/BerrieLocal_защита.pptx)
 * Сопроводительное письмо  [pdf](https://github.com/berrielocal/berrielocal/blob/main/Documentation/CoverLetter.pdf)  [dock](https://github.com/berrielocal/berrielocal/blob/main/Documentation/CoverLetter.docx)
 * Презентация: Аналитика и пользовательский путь (2 аттестация) [pptx](https://github.com/berrielocal/berrielocal/blob/main/Documentation/BerrieLocal%20Analysis%20and%20User%20Story.pdf)
+* Исправленное техническое задание (2 аттестация) [dock](https://github.com/berrielocal/berrielocal/blob/main/Documentation/Technical%20specification%20Final.docx) [pdf](https://github.com/berrielocal/berrielocal/blob/main/Documentation/Technical%20specification%20Final.pdf)
+* Курсовая работа (2 аттестация) [dock](https://github.com/berrielocal/berrielocal/blob/main/Documentation/Coursework.docx) [pdf](https://github.com/berrielocal/berrielocal/blob/main/Documentation/Coursework.pdf)
 ### Видео
 * [Видеопрезентация (1 аттестация)](https://youtu.be/-QW4zf2W6X0)
 * [Видеопрезентация: Аналитика и пользовательский путь (2 аттестация)](https://youtu.be/-lE382L_jEs)
