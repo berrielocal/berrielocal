@@ -22,7 +22,7 @@
 * Исправленное техническое задание (2 аттестация) [dock](https://github.com/berrielocal/berrielocal/blob/main/Documentation/Technical%20specification%20Final.docx) [pdf](https://github.com/berrielocal/berrielocal/blob/main/Documentation/Technical%20specification%20Final.pdf)
 * Курсовая работа (2 аттестация) [dock](https://github.com/berrielocal/berrielocal/blob/main/Documentation/Coursework.docx) [pdf](https://github.com/berrielocal/berrielocal/blob/main/Documentation/Coursework.pdf)
 * Курсовая работа (предзащита) [dock](https://github.com/berrielocal/berrielocal/blob/main/Documentation/Coursework_pre-defense.docx) [pdf](https://github.com/berrielocal/berrielocal/blob/main/Documentation/Coursework_pre-defense.pdf)
-
+* Презентация (предзащита)  [pdf](https://github.com/berrielocal/berrielocal/blob/main/Documentation/presentation_pre-deferense.pdf)
 
 ### Видео
 * [Видеопрезентация (1 аттестация)](https://youtu.be/-QW4zf2W6X0)
