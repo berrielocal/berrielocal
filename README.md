@@ -10,7 +10,7 @@
 * [FigJam Интерактивный макет](https://www.figma.com/proto/2mFZOdLC60tjqXPrdFZcj7/PROT_BerrieLocal?page-id=0:1&type=design&node-id=1-1494&viewport=285,1069,0.15&t=eGjjXQeKDqFq9Nns-1&scaling=min-zoom&starting-point-node-id=1:1615)
 ### Ссылки на код
 * [Backend](https://github.com/berrielocal/backend)
-* [Mobile](https://github.com/berrielocal/mobile) |  [Mock Apk](https://github.com/berrielocal/berrielocal/tree/main/apk)
+* [Mobile](https://github.com/berrielocal/mobile) |  [Apk](https://github.com/berrielocal/berrielocal/tree/main/apk)
 ### Документация
 * Техническое задание  [pdf](https://github.com/berrielocal/berrielocal/blob/main/Documentation/Technical%20specification.pdf)  [dock](https://github.com/berrielocal/berrielocal/blob/main/Documentation/Technical%20specification.docx)
 * Подтверждение оформления ТЗ [pdf](https://github.com/berrielocal/berrielocal/blob/main/Documentation/confirmation.pdf)
@@ -27,3 +27,4 @@
 ### Видео
 * [Видеопрезентация (1 аттестация)](https://youtu.be/-QW4zf2W6X0)
 * [Видеопрезентация: Аналитика и пользовательский путь (2 аттестация)](https://youtu.be/-lE382L_jEs)
+* [Видеопрезентация: (Предзащита)](https://youtu.be/LQzbbUK_k6E)
