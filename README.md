@@ -29,5 +29,5 @@
 * [Видеопрезентация (1 аттестация)](https://youtu.be/-QW4zf2W6X0)
 * [Видеопрезентация: Аналитика и пользовательский путь (2 аттестация)](https://youtu.be/-lE382L_jEs)
 * [Видеопрезентация: (Предзащита)](https://youtu.be/LQzbbUK_k6E)
-* [Видео с обзором серверной части](https://drive.google.com/file/d/1dWwWakPRqqhDhoPMbOedrFMFydFiooBB/view)
+* [Видео с развёртыванием приложения](https://drive.google.com/file/d/1dWwWakPRqqhDhoPMbOedrFMFydFiooBB/view)
 
