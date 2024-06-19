@@ -31,6 +31,7 @@
 * [Видеопрезентация: (Предзащита)](https://youtu.be/LQzbbUK_k6E)
 * [Видео с развёртыванием приложения](https://drive.google.com/file/d/1dWwWakPRqqhDhoPMbOedrFMFydFiooBB/view)
 * [Видео с обзором серверной части приложения](https://drive.google.com/file/d/1rebmog78dQlLiiYGErQ3xnGaElly6hjS/view?usp=sharing)
+* [Видео с обзором архитектуры клиентской части приложения](https://youtu.be/7L7VTKVDDKA)
 
 ### Данные для тестового пользователя
 
