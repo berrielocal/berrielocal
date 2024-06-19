@@ -32,3 +32,8 @@
 * [Видео с развёртыванием приложения](https://drive.google.com/file/d/1dWwWakPRqqhDhoPMbOedrFMFydFiooBB/view)
 * [Видео с обзором серверной части приложения](https://drive.google.com/file/d/1rebmog78dQlLiiYGErQ3xnGaElly6hjS/view?usp=sharing)
 
+### Данные для тестового пользователя
+
+| Лоигин | Пароль                |
+|------------|--------------------------|
+| maxim_2003@mail.ru      | blabla |
