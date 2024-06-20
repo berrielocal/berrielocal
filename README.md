@@ -25,6 +25,7 @@
 * Курсовая работа (предзащита) [dock](https://github.com/berrielocal/berrielocal/blob/main/Documentation/Coursework_pre-defense.docx) [pdf](https://github.com/berrielocal/berrielocal/blob/main/Documentation/Coursework_pre-defense.pdf)
 * Презентация (предзащита)  [pdf](https://github.com/berrielocal/berrielocal/blob/main/Documentation/presentation_pre-deferense.pdf)
 * Курсовая работа (защита) [dock](https://github.com/berrielocal/berrielocal/blob/main/Documentation/Coursework_defense.docx) [pdf](https://github.com/berrielocal/berrielocal/blob/main/Documentation/Coursework_defense.pdf)
+*  Презентация (защита)  [pdf](https://github.com/berrielocal/berrielocal/blob/main/Documentation/presentation.pdf)
 
 ### Видео
 * [Видеопрезентация (1 аттестация)](https://youtu.be/-QW4zf2W6X0)
